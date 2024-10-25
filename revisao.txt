@@ -1,0 +1,21 @@
+O que são variáveis?
+uma variável é um contentor no qual pode armazenar diferentes tipos de dados, como números, cadeias de caracteres, etc. 
+
+String     Sao textos ou cararacteres
+Int        Numero inteiros
+Float      Numero fracionarios
+Boleano    Verdadeiro  ou falso
+
+
+Que os principais tipos
+
+Quais os principais tipos?
+uma variável pode ser qualitativa ou quantitativa; uma variável qualitativa pode ser nominal ou ordinal, enquanto uma variável quantitativa pode ser contínua ou discreta.
+
+
+
+
+
+
+ Qual a diferença entre variáveis e constantes?
+ A principal diferença é que uma variável pode mudar de valor durante a execução do programa, enquanto uma constante mantém sempre o mesmo valor.

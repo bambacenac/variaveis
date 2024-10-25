@@ -1,0 +1,23 @@
+Responder:
+
+O que são variáveis?
+Quais os principais tipos?
+Qual a diferença entre variáveis e constantes?
+
+
+construa uma pagina/programa onde o usuario digita dois numeros e o programa
+dara, como res1. Créez une page/un programme où l'utilisateur saisit deux nombres et où le programme affiche la somme des deux nombres.
+le programme affichera la somme des deux nombres.
+
+2. Construire une page/un programme où l'utilisateur tape un nombre et le programme
+écrit à l'écran le résultat de la mise au carré de ce nombre. Remarque : n'utilisez que des
+opérateurs.
+
+3. Créez une page/un programme où l'utilisateur tape son nom et où la page écrit « Bienvenue, nom de la personne ».
+écrit « Bienvenue, nom de la personne », avec le nom de la personne.
+
+4. Créer une page/un programme où l'utilisateur tape deux nombres et le programme affiche le résultat des quatre opérations mathématiques de base.
+affiche à l'écran le résultat des quatre opérations mathématiques de base.
+5. Construire une page/un programme où l'utilisateur tape l'année de sa naissance et le programme écrit à l'écran l'âge qu'il a atteint.
+programme écrira à l'écran l'âge qu'il aura en 2040.
+La soumission doit être un fichier texte avec le lien github de l'étudiant.ultado a soma dos dois numeros
